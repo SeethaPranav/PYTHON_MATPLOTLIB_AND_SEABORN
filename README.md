@@ -41,6 +41,8 @@ plt.legend()
 
 plt.grid(True)
 
+plt.figure(figsize=(8, 5), dpi=100)
+
 plt.show()
 
 ![q1](https://github.com/user-attachments/assets/00961e7b-d34c-4b1f-a542-de6f89deee9b)
@@ -70,6 +72,8 @@ plt.ylabel('Test Scores')
 
 plt.title('Relationship Between Hours Studied and Test Scores')
 
+plt.figure(figsize=(8, 5), dpi=100)
+
 plt.show()
 
 ![q2](https://github.com/user-attachments/assets/f122cb3f-e5c3-458c-aa28-1ded15a9020c)
@@ -89,6 +93,8 @@ plt.xlabel('Month')
 plt.ylabel('Sales ($)')
 
 plt.title('Total Sales for Each Month of the Year')
+
+plt.figure(figsize=(8, 5), dpi=100)
 
 plt.show()
 
