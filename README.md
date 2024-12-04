@@ -1,13 +1,13 @@
 # PYTHON_MATPLOTLIB_AND_SEABORN
 
 # Data visualization using Matplotlib and Seaborn to create insightful charts and plots. Create a line plot using matplotlib pyplot that displays the population of four different cities over time. Each city should have its own line, and the x-axis should represent years (e.g. 2010, 2011, 2012, etc.) while the y-axis should represent the population.The data for the four cities is provided below: 
-•	City A: [500000, 550000, 600000, 650000, 700000, 750000, 800000] 
+# •	City A: [500000, 550000, 600000, 650000, 700000, 750000, 800000] 
 
-•	City B: [800000, 850000, 900000, 950000, 1000000, 1050000, 1100000] 
+# •	City B: [800000, 850000, 900000, 950000, 1000000, 1050000, 1100000] 
 
-•	City C: [1000000, 1050000, 1100000, 1150000, 1200000, 1250000, 1300000] 
+# •	City C: [1000000, 1050000, 1100000, 1150000, 1200000, 1250000, 1300000] 
 
-•	City D: [1200000, 1250000, 1300000, 1350000, 1400000, 1450000, 1500000]
+# •	City D: [1200000, 1250000, 1300000, 1350000, 1400000, 1450000, 1500000]
 
 import matplotlib.pyplot as plt
 
