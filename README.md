@@ -45,7 +45,7 @@ plt.figure(figsize=(8, 5), dpi=100)
 
 plt.show()
 
-![q1](https://github.com/user-attachments/assets/00961e7b-d34c-4b1f-a542-de6f89deee9b)
+![q1](https://github.com/user-attachments/assets/e2b2a631-c093-4d20-b5cd-2b564eaf2483)
 
 # 2. Create a scatter plot using seaborn that shows the relationship between the number of hours studied and the test scores obtained by a group of students. Use the following data:
 # •	Hours Studied: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
@@ -76,7 +76,7 @@ plt.figure(figsize=(8, 5), dpi=100)
 
 plt.show()
 
-![q2](https://github.com/user-attachments/assets/f122cb3f-e5c3-458c-aa28-1ded15a9020c)
+![q2](https://github.com/user-attachments/assets/169ed4ea-2b43-44c3-8844-5ada8f87b4ff)
 
 # 3. Create a bar chart using matplotlib pyplot that shows the total sales for each month of the year. Use the following data: 
 # •	Month: ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"] 
@@ -98,7 +98,8 @@ plt.figure(figsize=(8, 5), dpi=100)
 
 plt.show()
 
-![q3](https://github.com/user-attachments/assets/02fec092-8952-442f-93f8-a3daedb34c16)
+![q3](https://github.com/user-attachments/assets/40101861-7f72-43e7-9b31-86ee45742072)
+
 
 
 
